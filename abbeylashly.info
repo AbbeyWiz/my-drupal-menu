@@ -1,0 +1,15 @@
+name = AbbeyLashly
+description = A beautiful wedding theme by <a>AbbeyLashly</a>.
+package = Core
+version = VERSION
+core = 7.x
+stylesheets[all][] = style.css
+stylesheets[all][] = css/responsive.css
+
+scripts[] = js/jquery.min.js
+
+
+; Information added by Drupal.org packaging script on 2016-10-05
+version = "7.51"
+project = "drupal"
+datestamp = "1475694174"
